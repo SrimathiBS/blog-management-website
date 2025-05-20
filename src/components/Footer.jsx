@@ -1,4 +1,5 @@
 import React from 'react'
+
 import { Link } from 'react-router-dom'
 const Footer = () => {
   return (
@@ -17,6 +18,12 @@ const Footer = () => {
         <small>All Rights Reserved &copy; Copyright, EGATOR Tutorials.</small>
       </div>
     </footer>
+
+
+const Footer = () => {
+  return (
+    <div>Footer</div>
+
   )
 }
 

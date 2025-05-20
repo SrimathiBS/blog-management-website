@@ -6,7 +6,11 @@ import { AiOutlineClose } from 'react-icons/ai'
 const Header = () => {
   return (
     <nav>
+
       <div className="container nav__container">
+
+      <div className="container nav__container"></div>
+
          <Link to="/" className='nav__logo'>
          <img src={Logo} alt='Navbar logo'></img>
          </Link>
@@ -19,7 +23,9 @@ const Header = () => {
          <button className="nav__toggle-btn">
           <AiOutlineClose/>
          </button>
+
       </div>
+
     </nav>
   )
 }
