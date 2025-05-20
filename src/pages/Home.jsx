@@ -5,11 +5,6 @@ const Home = () => {
   return (
     <Posts />
 
-
-const Home = () => {
-  return (
-    <div>Home</div>
-
   )
 }
 

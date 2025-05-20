@@ -13,9 +13,6 @@ const ErrorPage = () => {
     </section>
 
 
-const ErrorPage = () => {
-  return (
-    <div>ErrorPage</div>
 
   )
 }
